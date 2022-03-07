@@ -9,3 +9,5 @@ Create a new GIT repository on GitHub.
 Map the Working Directory to the remote repo
 
 Install Notepad++ for further code operations
+
+Completed the First Assignment
