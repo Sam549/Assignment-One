@@ -1,0 +1,11 @@
+Assignment – 1
+
+"Install GIT on your local machine (Windows preferably)
+
+Create a Git working directory on your local machine.
+
+Create a new GIT repository on GitHub.
+
+Map the Working Directory to the remote repo
+
+Install Notepad++ for further code operations
